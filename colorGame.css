@@ -1,0 +1,19 @@
+.square{
+	background:pink;
+	width: 30%;
+	margin:1.66%;
+	padding-bottom: 30%;
+	float:left;
+}
+body{
+	background-color:#232323;
+}
+
+#container{
+	max-width:600px;
+	margin:0 auto;
+}
+
+h1{
+	color:red;
+}
